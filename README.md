@@ -1,2 +1,2 @@
-# s-needle
+# turtledove
 Lightweight server information detection tool.
