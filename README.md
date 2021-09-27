@@ -1,2 +1,2 @@
 # turtledove
-Lightweight server information detection tool.
+Lightweight server manage tool.
